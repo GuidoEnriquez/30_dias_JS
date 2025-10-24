@@ -2,6 +2,6 @@
 Distintos proyectos realizados en JS
 
 
- Dia 01 - To-Do List
+# Dia 01 - To-Do List
 
-# https://github.com/GuidoEnriquez/To_Do_List.git
+ https://github.com/GuidoEnriquez/To_Do_List.git
