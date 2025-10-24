@@ -5,3 +5,6 @@ Distintos proyectos realizados en JS
 # Dia 01 - To-Do List
 
  https://github.com/GuidoEnriquez/To_Do_List.git
+
+ # Dia 02 - Calculadora
+ https://github.com/GuidoEnriquez/Calculadora.git
