@@ -8,3 +8,6 @@ Distintos proyectos realizados en JS
 
  # Dia 02 - Calculadora
  https://github.com/GuidoEnriquez/Calculadora.git
+
+# Dia 03 - Contador 
+https://github.com/GuidoEnriquez/Contador.git
