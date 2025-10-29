@@ -11,3 +11,6 @@ Distintos proyectos realizados en JS
 
 # Dia 03 - Contador 
 https://github.com/GuidoEnriquez/Contador.git
+
+# Dia 04 - Generador de citas aleatorias
+https://github.com/GuidoEnriquez/genedador_citas_aleatotia.git
