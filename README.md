@@ -16,4 +16,4 @@ https://github.com/GuidoEnriquez/Contador.git
 https://github.com/GuidoEnriquez/genedador_citas_aleatotia.git
 
 # Dia 05 - Trivia Quizz App
-# https://github.com/GuidoEnriquez/Trivia_Quizz_App.git
+ https://github.com/GuidoEnriquez/Trivia_Quizz_App.git
